@@ -11,6 +11,10 @@ Orga is an online e-commerce website involved in selling fruits and vegetables. 
 ## Installation
 *Clone the repository to your local machine.
 *Open it with INTELLIJ IDEA & click run button
+##Usage
+Postman Collection document: https://documenter.getpostman.com/view/17949754/2s84Dpx3xt
+
+
 ## Contributing
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
