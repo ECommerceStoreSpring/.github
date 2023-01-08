@@ -1,6 +1,6 @@
 ## Configuration Instruction
 <p align="left">
-  <img src="https://github.com/ECommerceStoreSpring/Ecommerce-Frontend/blob/master/src/assests/vegetable%20cafe%20logo%20template%20social%20media%20.png?raw=true">
+  <img src="https://github.com/ECommerceStoreSpring/Ecommerce-Frontend/blob/master/src/assests/vegetable%20cafe%20logo%20template%20social%20media%20.png?raw=true" height="160">
 </p>
 
 # Orga
