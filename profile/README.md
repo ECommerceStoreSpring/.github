@@ -1,5 +1,7 @@
 ## Configuration Instruction
-
+<p align="left">
+  <img src="https://github.com/TeachMe-Project/.github/blob/main/profile/5s.png?raw=true">
+</p>
 
 # Orga
 Orga is an online e-commerce website involved in selling fruits and vegetables. Primary functionalities include adding and removing fruits and vegetables to the store as an admin, adding fruits and vegetables to the cart and proceed to check out page and continue payment via payment getway or through mobile payment as a customer.
